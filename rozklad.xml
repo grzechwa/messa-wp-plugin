@@ -1,0 +1,535 @@
+<?xml version="1.0"?>
+<rok>
+    <tydzien nr="36">
+        <dzien data="12.09.2014">
+            <id>1</id>
+            <idlit></idlit>
+            <wspomnienie></wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7 </godz>
+                <item>lorem blorem sglore</item>
+                <item>torel msokr dkose </item>
+            </anons>
+            <anons>
+                <godz> 8 </godz>
+                <item>lorem blorem sglore</item>
+                <item>torel msokr dkose </item>
+                <item>lorem blorem sglore</item>
+                <item>torel msokr dkose </item>
+            </anons>
+        </dzien>
+        <dzien data="13.09.2014">
+            <id>2</id>
+            <idlit></idlit>
+            <wspomnienie></wspomnienie>
+            <event></event>
+            <anons>
+                <godz>7:30</godz>
+                <item>  (14. gregorianka): Za + Stanisławę KOWALCZYK </item>
+            </anons>
+            <anons>
+                <godz>9:00</godz>
+                <item>  Za + męża, ojca, dziadka Stanisława BAREJ w 1. r. śm. </item>
+            </anons>
+            <anons>
+                <godz>10:30</godz>
+                <item>  1. (dziękczynna): w int małżonków Emanuela i Heleny LIPIŃSKI z ok. jubileuszu 55. r. ślubu oraz o bł. B. dla całej rodziny /TD/</item>
+                <item>  2. (dziękczynna): w int małżonków Aleksandra i Ireny KUPCZYK z ok. 20. r. ślubu oraz o bł. B. dla synów Kamila, Karola i córki Klaudii </item>
+                <item>  3. (dziękczynna): w int solenizantki Doroty SOSNOWSKIEJ ok. jubileuszu 60. r. urodzin oraz o bł. B. dla całej rodziny  </item>
+            </anons>
+            <anons>
+                <godz>12:00</godz>
+                <item>  (dziękczynna): w int małżonków Krzysztofa i Haliny SZULIM z ok. jubileuszu 25. r. ślubu oraz 50. r. urodzin Krzysztofa oraz o bł. B. dla synów Roberta i Kamila i całej rodziny /TD/ </item>
+            </anons>
+            <anons>
+                <godz>15:00</godz>
+                <item>  Za + męża, ojca, dziadka Stanisława BAREJ w 1. r. śm. </item>
+                <item>  2. (dziękczynna): w int. rocznego dziecka Igora SÓWKA oraz o bł. B. i zdrowie dla jego rodziców i chrzestnych  </item>
+            </anons>
+            <anons>
+                <godz>16:15</godz>
+                <item>  Za + męża, ojca, dziadka Stanisława BAREJ w 1. r. śm. </item>
+            </anons>
+            <anons>
+                <godz> 17:00 </godz>
+                <item>  Za ++ męża Edwarda ŁUKASIK w 70. r. urodzin i ojca Wilhelma FRIEDRICH w 20. r. śm. oraz ++ z rodziny SINDUT-ŁUKASIK-DUDEK-FRIEDRICH</item>
+            </anons>
+        </dzien>
+    </tydzien>
+    <tydzien nr="37">
+        <dzien data="14.09.2014">
+            <id>1</id>
+            <idlit></idlit>
+            <wspomnienie> Wspomenienie sw. Kingi</wspomnienie>
+            <event>  4. TYDZIEŃ WYCHOWANIA pt. “Prawda fundamentem wychowania”  </event>
+            <anons>
+                <godz>7:30</godz>
+                <item>  (14. gregorianka): Za + Stanisławę KOWALCZYK </item>
+            </anons>
+            <anons>
+                <godz>9:00</godz>
+                <item>  Za + męża, ojca, dziadka Stanisława BAREJ w 1. r. śm. </item>
+            </anons>
+            <anons>
+                <godz>10:30</godz>
+                <item>  1. (dziękczynna): w int małżonków Emanuela i Heleny LIPIŃSKI z ok. jubileuszu 55. r. ślubu oraz o bł. B. dla całej rodziny /TD/</item>
+                <item>  2. (dziękczynna): w int małżonków Aleksandra i Ireny KUPCZYK z ok. 20. r. ślubu oraz o bł. B. dla synów Kamila, Karola i córki Klaudii </item>
+                <item>  3. (dziękczynna): w int solenizantki Doroty SOSNOWSKIEJ ok. jubileuszu 60. r. urodzin oraz o bł. B. dla całej rodziny  </item>
+            </anons>
+            <anons>
+                <godz>12:00</godz>
+                <item>  (dziękczynna): w int małżonków Krzysztofa i Haliny SZULIM z ok. jubileuszu 25. r. ślubu oraz 50. r. urodzin Krzysztofa oraz o bł. B. dla synów Roberta i Kamila i całej rodziny /TD/ </item>
+            </anons>
+            <anons>
+                <godz>15:00</godz>
+                <item>  Za + męża, ojca, dziadka Stanisława BAREJ w 1. r. śm. </item>
+                <item>  2. (dziękczynna): w int. rocznego dziecka Igora SÓWKA oraz o bł. B. i zdrowie dla jego rodziców i chrzestnych  </item>
+            </anons>
+            <anons>
+                <godz>16:15</godz>
+                <item>  Za + męża, ojca, dziadka Stanisława BAREJ w 1. r. śm. </item>
+            </anons>
+            <anons>
+                <godz> 17:00 </godz>
+                <item>  Za ++ męża Edwarda ŁUKASIK w 70. r. urodzin i ojca Wilhelma FRIEDRICH w 20. r. śm. oraz ++ z rodziny SINDUT-ŁUKASIK-DUDEK-FRIEDRICH</item>
+            </anons>
+        </dzien>
+    </tydzien>
+    <tydzien nr="38">
+        <dzien data="15.09.2014">
+            <id>5</id>
+            <idlit></idlit>
+            <wspomnienie>   Wspomnienie NMP Bolesnej </wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item> 	KRYPTA (15. gregorianka): Za + Stanisławę KOWALCZYK </item>
+            </anons>
+		<anons>
+                	<godz> 8:00 </godz>
+                	<item> 	Do Opatrzności Bożej z podziękowaniem za odebrane łaski z prośbą o błogosławieństwo Boże i zdrowie dla Ireny WOLNA </item>
+	    	</anons>
+		<anons>
+                	<godz> 18:00 </godz>
+                	<item> 	1. Za + matkę Walerię MIKOŁAJEWSKĄ, syna Henryka, męża Mariana oraz braci Stanisława, Roberta i Jerzego</item>
+                	<item> 	2. Za + Ryszarda MYŚLIŃSKIEGO </item>
+            	</anons>
+            	<anons>
+                	<godz> 18:45 </godz>
+                	<item> (krypta): Spotkanie grupy modlitewnej </item>
+	    	</anons>
+        </dzien>
+        <dzien data="16.09.2014">
+            <id>7</id>
+            <idlit></idlit>
+            <wspomnienie> Wspomnienie św. Korneliusza, pap. i Cypriana, męcz</wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item>KRYPTA (16. gregorianka): Za + Stanisławę KOWALCZYK </item>
+            </anons>
+            <anons>
+                <godz> 8:00 </godz>
+                <item>Za ++ dziadków Ryszarda i Marię NEUMANN oraz Adolfa i Paulinę ZUGA </item>
+            </anons>
+            <anons>
+                <godz> 18:00 </godz>
+                <item>1. Za ++ rodziców Zenona i Teresę WOŹNIAK, brata Mirosława oraz dziadków Leona i Amalię JESKE</item>
+                <item>2. (dziękczynna): w int. małżonków Janusza i Krystyny z ok. jubileuszu 25. r. ślubu oraz o bł. B. Dary Ducha Św. i zdr. dla synów Mateusza, Michała i Jakuba, rodziców, znajomych i całej rodziny /TD/</item>
+            </anons>
+        </dzien>
+        <dzien data="17.09.2014">
+            <id>6</id>
+            <idlit></idlit>
+            <wspomnienie> Wspomnienie św. Zygmunta Szczęsnego Felińskiego, bpa </wspomnienie>
+            <event> KWARTALNY DZIEŃ MODLITW ZA DZIECI, MŁODZIEŻ I WYCHOWAWCÓW</event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item>KRYPTA (17. gregorianka): Za + Stanisławę KOWALCZYK</item>
+            </anons>
+            <anons>
+                <godz> 8:00 </godz>
+                <item>Za + Czesława WYRWAS w 30. dniu po śm. </item>
+            </anons>
+            <anons>
+                <godz> 17:30 </godz>
+                <item>NABOŻEŃSTWO DO NMP NIEUSTAJĄCEJ POMOCY </item>
+            </anons>
+            <anons>
+                <godz> 18:00 </godz>
+                <item>1. Za + męża, ojca Jana COLKOS w 1. r. śm. oraz ++ rodziców Jana i Klarę NOWOK, Józefa i Teresę COLKOS i pokrewieństwo</item>
+                <item>2. Za + Józefa ALOSZKO w 16. r. śm. oraz ++ Dorę ALOSZKO, ich syna Zbigniewa ALOSZKO, Wincentego i Paulinę ALOSZKO, Wiesławę CZUCHRAJ, Szymona KUCZKA i Józefa SZCZEPAŃSKIEGO w 3. r. śm. </item>
+            </anons>
+            <anons>
+                <godz> 18:45 </godz>
+                <item>(kościół): 19. KATECHEZA BIBLIJNA </item>
+            </anons>
+        </dzien>        
+        <dzien data="18.09.2014">
+            <id>6</id>
+            <idlit></idlit>
+            <wspomnienie> Święto św. Stanisława Kostki, zak.  </wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item>KRYPTA (18. gregorianka): Za + Stanisławę KOWALCZYK </item>
+            </anons>
+            <anons>
+                <godz> 8:00 </godz>
+                <item></item>
+            </anons>
+            <anons>
+                <godz> 18:00 </godz>
+                <item>  (dziękczynna): w int. solenizantki Emilii ŚWITAŁA z ok. jubileuszu 80. urodzin oraz za + męża Edwarda w r. urodzin </item>
+            </anons>
+            <anons>
+                <godz> 18:45 </godz>
+                <item>  (kościół): Nauka chrzcielna dla rodziców i chrzestnych</item>
+            </anons>
+            <anons>
+                <godz> 19:00 </godz>
+                <item> (kancelaria): Trzecia nauka przedślubna  </item>
+            </anons>
+        </dzien>
+    </tydzien>
+    <tydzien nr="39">
+        <dzien data="15.09.2014">
+            <id>5</id>
+            <idlit></idlit>
+            <wspomnienie>   Wspomnienie NMP Bolesnej </wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item> 	KRYPTA (15. gregorianka): Za + Stanisławę KOWALCZYK </item>
+            </anons>
+            <anons>
+                <godz> 8:00 </godz>
+                <item> 	Do Opatrzności Bożej z podziękowaniem za odebrane łaski z prośbą o błogosławieństwo Boże i zdrowie dla Ireny WOLNA </item>
+            </anons>
+            <anons>
+                <godz> 18:00 </godz>
+                <item> 	1. Za + matkę Walerię MIKOŁAJEWSKĄ, syna Henryka, męża Mariana oraz braci Stanisława, Roberta i Jerzego</item>
+                <item> 	2. Za + Ryszarda MYŚLIŃSKIEGO </item>
+            </anons>
+            <anons>
+                <godz> 18:45 </godz>
+                <item> (krypta): Spotkanie grupy modlitewnej </item>
+            </anons>
+        </dzien>
+        <dzien data="16.09.2014">
+            <id>7</id>
+            <idlit></idlit>
+            <wspomnienie> Wspomnienie św. Korneliusza, pap. i Cypriana, męcz</wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item>KRYPTA (16. gregorianka): Za + Stanisławę KOWALCZYK </item>
+            </anons>
+            <anons>
+                <godz> 8:00 </godz>
+                <item>Za ++ dziadków Ryszarda i Marię NEUMANN oraz Adolfa i Paulinę ZUGA </item>
+            </anons>
+            <anons>
+                <godz> 18:00 </godz>
+                <item>1. Za ++ rodziców Zenona i Teresę WOŹNIAK, brata Mirosława oraz dziadków Leona i Amalię JESKE</item>
+                <item>2. (dziękczynna): w int. małżonków Janusza i Krystyny z ok. jubileuszu 25. r. ślubu oraz o bł. B. Dary Ducha Św. i zdr. dla synów Mateusza, Michała i Jakuba, rodziców, znajomych i całej rodziny /TD/</item>
+            </anons>
+        </dzien>
+        <dzien data="17.09.2014">
+            <id>6</id>
+            <idlit></idlit>
+            <wspomnienie> Wspomnienie św. Zygmunta Szczęsnego Felińskiego, bpa </wspomnienie>
+            <event> KWARTALNY DZIEŃ MODLITW ZA DZIECI, MŁODZIEŻ I WYCHOWAWCÓW</event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item>KRYPTA (17. gregorianka): Za + Stanisławę KOWALCZYK</item>
+            </anons>
+            <anons>
+                <godz> 8:00 </godz>
+                <item>Za + Czesława WYRWAS w 30. dniu po śm. </item>
+            </anons>
+            <anons>
+                <godz> 17:30 </godz>
+                <item>NABOŻEŃSTWO DO NMP NIEUSTAJĄCEJ POMOCY </item>
+            </anons>
+            <anons>
+                <godz> 18:00 </godz>
+                <item>1. Za + męża, ojca Jana COLKOS w 1. r. śm. oraz ++ rodziców Jana i Klarę NOWOK, Józefa i Teresę COLKOS i pokrewieństwo</item>
+                <item>2. Za + Józefa ALOSZKO w 16. r. śm. oraz ++ Dorę ALOSZKO, ich syna Zbigniewa ALOSZKO, Wincentego i Paulinę ALOSZKO, Wiesławę CZUCHRAJ, Szymona KUCZKA i Józefa SZCZEPAŃSKIEGO w 3. r. śm. </item>
+            </anons>
+            <anons>
+                <godz> 18:45 </godz>
+                <item>(kościół): 19. KATECHEZA BIBLIJNA </item>
+            </anons>
+        </dzien>        
+        <dzien data="18.09.2014">
+            <id>6</id>
+            <idlit></idlit>
+            <wspomnienie> Święto św. Stanisława Kostki, zak.  </wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item>KRYPTA (18. gregorianka): Za + Stanisławę KOWALCZYK </item>
+            </anons>
+            <anons>
+                <godz> 8:00 </godz>
+                <item></item>
+            </anons>
+            <anons>
+                <godz> 18:00 </godz>
+                <item>  (dziękczynna): w int. solenizantki Emilii ŚWITAŁA z ok. jubileuszu 80. urodzin oraz za + męża Edwarda w r. urodzin </item>
+            </anons>
+            <anons>
+                <godz> 18:45 </godz>
+                <item>  (kościół): Nauka chrzcielna dla rodziców i chrzestnych</item>
+            </anons>
+            <anons>
+                <godz> 19:00 </godz>
+                <item> (kancelaria): Trzecia nauka przedślubna  </item>
+            </anons>
+        </dzien>
+    </tydzien>
+    <tydzien nr="40">
+        <dzien data="28.09.2014">
+            <id>5</id>
+            <idlit></idlit>
+            <wspomnienie></wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7:30 </godz>
+                <item> 	1. Za ++ rodziców Michała i Józefę BRZOZOWSKI</item>
+                <item> 2. (28. gregorianka): Za + Stanisławę KOWALCZYK</item>
+            </anons>
+            <anons>
+                <godz> 9:00 </godz>
+                <item> 1. (dziękczynna): w int. solenizanta Wiktora MAJKUT z ok. 18. r. urodzin</item>
+                <item> 2. (dziękczynna): w int. małżonków Edwarda i Teresy z ok. jubileuszu 45. r. ślubu oraz o bł. B. i potrzebne łaski dla całej rodziny – Msza św. of. od synów z rodzinami /TD/</item>
+            </anons>
+            <anons>
+                <godz> 10:30 <br /> suma </godz>
+                <item> (dziękczynna): w int. solenizanta Zbigniewa DĘBSKIEGO z ok. r. urodzin oraz o bł. B. dla żony, córki, syna i rodziny </item>
+                <item> </item>
+            </anons>
+            <anons>
+                <godz> 12:00 </godz>
+                <item> 1. (dziękczynna): w int. małżonków Krystiana i Doroty z ok. jubileuszu 40. r. ślubu i z ok. 60. r. urodzin Doroty oraz o bł. B. dla całej rodziny /TD/</item>
+                <item>2. (dziękczynna): w int. solenizanta Kuby GÓRALSKIEGO z ok. 25. r. urodzin oraz o bł. B. dla całej </item>
+            </anons>
+            <anons>
+                <godz> 15:00 </godz>
+                <item> Za + żonę, matkę Jolantę ROGOWSKĄ w r. urodzin – Msza św. of. od męża z rodziną</item>
+            </anons>
+            <anons>
+                <godz> 16:15 </godz>
+                <item> NIESZPORY</item>
+            </anons>
+            <anons>
+                <godz> 17:00 </godz>
+                <item> 1. Za + męża, ojca, dziadka, pradziadka Józefa HRABAK w 10. r. śm. oraz ++ rodziców HRABAK-MIKOSZ i pokrewieństwo z obu stron</item>
+                <item>2. Za ++ matkę, babcię, prababcię Dorotę SOŚNICKĄ w 3. r. śm. i ojca, dziadka, pradziadka</item>
+            </anons>
+        </dzien>
+        <dzien data="29.09.2014">
+            <id>7</id>
+            <idlit></idlit>
+            <wspomnienie> Święto św. Archaniołów Michała, Gabriela i Rafała</wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item>  KRYPTA (29. gregorianka): Za + Stanisławę KOWALCZYK </item>
+            </anons>
+            <anons>
+                <godz> 8:00 </godz>
+                <item>  (dziękczynna): w int. solenizantki Zofii MAGIERA z ok. urodzin oraz o bł. B. dla całej rodziny </item>
+            </anons>
+            <anons>
+                <godz> 18:00 </godz>
+                <item>  1. Za + brata Edmunda WILK w 14. r. śm. oraz ++ rodziców Pawła i Ludwikę WILK</item>
+                <item>2. Za + matkę, babcię, prababcię Leokadię BANAŚKIEWICZ </item>
+                <item></item>
+            </anons>
+        </dzien>
+        <dzien data="30.09.2014">
+            <id>6</id>
+            <idlit></idlit>
+            <wspomnienie>  Wspomnienie św. Hieronima, prezb. i dK.</wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item>  KRYPTA (30. gregorianka): Za + Stanisławę KOWALCZYK </item>
+            </anons>
+            <anons>
+                <godz> 8:00 </godz>
+                <item>   Za + Tadeusza PYZIK – Msza św. of. od brata Stanisława z rodziną</item>
+            </anons>
+            <anons>
+                <godz> 18:00 </godz>
+                <item>  1. Za + męża Jana COGIEL w 1. r. śm.</item>
+                <item>2. Za + męża, ojca Piotra SKOK w 30. dniu po śm.</item>
+            </anons>
+        </dzien>        
+        <dzien data="01.10.2014">
+            <id>6</id>
+            <idlit></idlit>
+            <wspomnienie>  Wspomnienie św. Teresy od Dzieciątka Jezus, dz. i dK.</wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item> KRYPTA (1. gregorianka): Za + męża Teodora SOKOŁOWSKIEGO </item>
+            </anons>
+            <anons>
+                <godz> 8:00 </godz>
+                <item> (dziękczynna): w int. solenizantki Janiny DROŹDZIOŁ z ok. urodzin oraz o bł. B. dla całej rodziny </item>
+            </anons>
+            <anons>
+                <godz> 17:15 </godz>
+                <item>  NABOŻEŃSTWO RÓŻAŃCOWE w int. mieszkańców ul. Ks. Ficka </item>
+            </anons>
+            <anons>
+                <godz> 18:00 </godz>
+                <item>  1. Za + ojca Wawrzyńca NIEUŻYTEK w 5. r. śm. oraz o bł. B. dla całej rodziny</item>
+                <item>2. Za + Henryka SOWKA – Msza św. of. od lokatorów z ul. Dombka 1 </item>
+            </anons>
+            <anons>
+                <godz> 18:45 </godz>
+                <item> (kościół): 20. KATECHEZA BIBLIJNA </item>
+            </anons>
+            <anons>
+                <godz> 19:00 </godz>
+                <item> </item>
+            </anons>
+        </dzien>
+        <dzien data="02.10.2014">
+            <id>6</id>
+            <idlit></idlit>
+            <wspomnienie> Wspomnienie świętych Aniołów Stróżów</wspomnienie>
+            <event>  PIERWSZY CZWARTEK MIESIĄCA</event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item>  KRYPTA (2. gregorianka): Za + męża Teodora SOKOŁOWSKIEGO </item>
+            </anons>
+            <anons>
+                <godz> 8:00 </godz>
+                <item> Za + matkę Zofię PROSTACKĄ w r. śm. oraz ++ ojca Józefa, Stanisława GAWEŁ, Agnieszkę ŻAK, Urszulę WINSZOWATY i ++ z rodziny  </item>
+            </anons>
+            <anons>
+                <godz> 17:15 </godz>
+                <item>  NABOŻEŃSTWO RÓŻAŃCOWE w int. mieszkańców ul. Św. Józefa</item>
+            </anons>
+            <anons>
+                <godz> 18:00 </godz>
+                <item> 1. Do Chrystusa Najwyższego i Wiecznego Kapłana z prośbą o liczne, dobre i godne powołania kapłańskie, zakonne i misyjne oraz o bł. i zdr. dla kapłanów pracujących w naszej parafii i z niej pochodzących oraz o opiekę i potrzebne łaski wszystkich osób konsekrowanych.</item>
+                <item> 2. Za + Wandę BIERNACKĄ w 1. r. śm.</item>
+            </anons>
+            <anons>
+                <godz> 18:45 </godz>
+                <item>  (kościół): Nauka chrzcielna dla rodziców i chrzestnych </item>
+            </anons>
+            <anons>
+                <godz> 19:00 </godz>
+                <item> (kancelaria): Pierwsza nauka przedślubna</item>
+            </anons>
+        </dzien>
+        <dzien data="03.10.2014">
+            <id>6</id>
+            <idlit></idlit>
+            <wspomnienie>  Wspomnienie św. Teresy od Dzieciątka Jezus, dz. i dK.</wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item> KRYPTA (1. gregorianka): Za + męża Teodora SOKOŁOWSKIEGO </item>
+            </anons>
+            <anons>
+                <godz> 8:00 </godz>
+                <item> (dziękczynna): w int. solenizantki Janiny DROŹDZIOŁ z ok. urodzin oraz o bł. B. dla całej rodziny </item>
+            </anons>
+            <anons>
+                <godz> 17:15 </godz>
+                <item>  NABOŻEŃSTWO RÓŻAŃCOWE w int. mieszkańców ul. Ks. Ficka </item>
+            </anons>
+            <anons>
+                <godz> 18:00 </godz>
+                <item>  1. Za + ojca Wawrzyńca NIEUŻYTEK w 5. r. śm. oraz o bł. B. dla całej rodziny</item>
+                <item>2. Za + Henryka SOWKA – Msza św. of. od lokatorów z ul. Dombka 1 </item>
+            </anons>
+            <anons>
+                <godz> 18:45 </godz>
+                <item> (kościół): 20. KATECHEZA BIBLIJNA </item>
+            </anons>
+            <anons>
+                <godz> 19:00 </godz>
+                <item> </item>
+            </anons>
+        </dzien>
+
+    </tydzien>
+    <tydzien nr="40">
+        <dzien data="05.10.2014">
+            <id>5</id>
+            <idlit></idlit>
+            <wspomnienie> Wspomnienie św. Placyda, męczennika (jego relikwie i ś. Rewokaty znajdują się w naszym ołtarzu posoborowym)</wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7:30 </godz>
+                <item> (5. gregorianka): Za + męża Teodora SOKOŁOWSKIEGO </item>
+            </anons>
+            <anons>
+                <godz> 9:00 </godz>
+                <item> 1. Za Parafian</item>
+                <item> 2. (dziękczynna): w int. małżonków Ryszarda i Reginy RYBAK z ok. jubileuszu 35. r. ślubu oraz o bł. B. i potrzebne łaski dla całej rodziny /TD/  </item>
+            </anons>
+            <anons>
+                <godz> 10:30 <br /> suma </godz>
+                <item>  (dziękczynna): w int. małżonków Eryka i Krystyny HAJDYSEK z ok. jubileuszu 55. r. ślubu oraz o bł. B. dla całej rodziny /TD/ </item>
+            </anons>
+            <anons>
+                <godz> 12:00 </godz>
+                <item>  1. O zbawienie duszy dla + ojca, dziadka Kazimierza JENDRASIK w 6. r. śm. oraz ++ z rodziny JENDRASIK-KOTOWSKI-SUJKA </item>
+                <item>  2. Za ++ rodziców Stefana i Mariannę JANKOWSKI, siostrę Helenę, brata Stanisława, szwagra Jana i Kazimierza oraz bratową Elżbietę</item>
+                <item>  3. Za + męża, ojca, dziadka Mariana BIJATA w 2. r. śm. </item>
+            </anons>
+            <anons>
+                <godz> 15:00 </godz>
+                <item>  	(chrzcielna): w int. dzieci: Emilii KIERCZ, Antoniego KUBIK,
+Kacpra JUSZCZAK, Tomasza SKOCZYLAS, Julii PIENIĄŻEK, Igora DOMINICZAK, Natana KOŚMIDER oraz w intencji
+rocznych dzieci: Mai PAWLAK, Mai WRÓBLEWSKIEJ, Kamila LENIK, a także o bł. B. i zdr. dla ich rodziców i chrzestnych </item>
+            </anons>
+            <anons>
+                <godz> 16:15 </godz>
+                <item> NABOŻEŃSTWO RÓŻAŃCOWE w int. mieszkańców ul. Krzyżowej</item>
+            </anons>
+            <anons>
+                <godz> 17:00 </godz>
+                <item> Za + siostrę Halinę ŻURAWSKĄ w 2. r. śm. oraz ++ rodziców Horsta i Helenę FABIAŃSKI, teściów Józefa i Celinę POLOCZEK, ++ z rodziny BIELA i dusze w czyśćcu cierpiące</item>
+            </anons>
+        </dzien>
+        <dzien data="06.10.2014">
+            <id>7</id>
+            <idlit></idlit>
+            <wspomnienie> Wspomnienie św. Brunona, prezb. </wspomnienie>
+            <event></event>
+            <anons>
+                <godz> 7:00 </godz>
+                <item>  KRYPTA (6. gregorianka): Za + męża Teodora SOKOŁOWSKIEGO </item>
+            </anons>
+            <anons>
+                <godz> 8:00 </godz>
+                <item>  Za + Tadeusza PYZIK – Msza św. of. od siostry Marii z rodziną </item>
+            </anons>
+            <anons>
+                <godz> 17:15 </godz>
+                <item> NABOŻEŃSTWO RÓŻAŃCOWE w int. mieszkańców ul. Ogrodowej i Okrężnej   </item>
+            </anons>
+            <anons>
+                <godz> 18:00 </godz>
+                <item> Za + ojca Antoniego KEMPA w r. śm. oraz + matkę Edytę KEMPA i pokrewieństwo z obu stron   </item>
+            </anons>
+            <anons>
+                <godz> 18:45 </godz>
+                <item> (krypta): Spotkanie grupy modlitewnej </item>
+            </anons>
+
+        </dzien>
+    </tydzien> 
+</rok>
